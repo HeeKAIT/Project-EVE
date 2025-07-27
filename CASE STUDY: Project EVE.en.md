@@ -1,4 +1,4 @@
-> [한글 버전으로 전환하기](README.md)
+> [한글 버전으로 전환하기](CASE STUDY: Project EVE.md)
 > 
 > ---
 > 
