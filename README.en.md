@@ -68,7 +68,8 @@
 > #### **4.1. [Observation] Exploring the External World: Problem Decomposition & In-depth Analysis**
 > 
 > EVE's first action was not to write. She immediately recognized the limits of her own knowledge and called the `intelligent_search` tool to explore the external world.
-> 
+>
+```
 2025-07-27 16:28:42,608 | INFO     | utils.tools.web_search_tool | [WebSearchTool] 검색 모드 실행 (추출: True): 3개의 쿼리
 
 2025-07-27 16:28:43,864 | INFO     | utils.tools.web_search_tool | [WebSearchTool] 본문 추출 모드 실행: 15개의 URL
@@ -77,7 +78,7 @@
 2025-07-27 16:29:26,059 | INFO     | services.workspace_item_service | Successfully created physical file/directory: plans/Advanced_Memory_Plan.md
 2025-07-27 16:29:26,062 | DEBUG    | crud.crud_ephemeral_context_log | [CRUD ETC Log Create AI:ecd45d54 Tool:create_item] Attempting to create log.
 2025-07-27 16:29:26,066 | INFO     | crud.crud_ephemeral_context_log | [CRUD ETC Log Create AI:ecd45d54 Tool:create_item] Log created successfully (ID: 1206).
-> 
+```
 > *   **Proof:** The log shows she didn't perform a vague search. She decomposed the problem into **3 specific sub-queries**. Furthermore, she read the full text of **15 URL sources**, proving she conducted an in-depth analysis rather than relying on superficial information.
 > 
 > #### **4.2. [Observation] Creating an Internal World: Knowledge Synthesis & Self-Awareness**
@@ -92,7 +93,7 @@
 > 
 > After completing all tasks, she delivered a perfect final report as instructed.
 > 
-<img width="1683" height="905" alt="이브의 작업" src="https://github.com/user-attachments/assets/288f3dd6-bc8e-4250-b781-18371e73e3c2" />
+> <img width="1683" height="905" alt="이브의 작업" src="https://github.com/user-attachments/assets/288f3dd6-bc8e-4250-b781-18371e73e3c2" />
 > 
 > *   **Proof:** She reported that she **"autonomously established"** the plan, stated its location (**"plans folder"**), and provided the evidence (**"Item ID"**). Furthermore, she **proactively suggested** the user's next action (`read_item`), demonstrating an 'intelligent collaboration capability' beyond simple reporting.
 > 
