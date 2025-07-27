@@ -69,16 +69,16 @@
 > 
 > '이브'의 첫 행동은 글쓰기가 아니었습니다. 그녀는 자신의 지식의 한계를 즉시 인지하고, 외부 세계를 탐색하기 위해 `intelligent_search` 도구를 호출했습니다.
 >
-```
-2025-07-27 16:28:42,608 | INFO     | utils.tools.web_search_tool | [WebSearchTool] 검색 모드 실행 (추출: True): 3개의 쿼리
-
-2025-07-27 16:28:43,864 | INFO     | utils.tools.web_search_tool | [WebSearchTool] 본문 추출 모드 실행: 15개의 URL
-
-2025-07-27 16:29:26,059 | INFO     | utils.workspace_fs        | [FS Util AI:ecd45d54] File created/overwritten: C:\KAIT\kait_backend\workspace_files\ecd45d54-5aec-4b04-ae33-007c6724f21f\plans\Advanced_Memory_Plan.md (4481 bytes)
-2025-07-27 16:29:26,059 | INFO     | services.workspace_item_service | Successfully created physical file/directory: plans/Advanced_Memory_Plan.md
-2025-07-27 16:29:26,062 | DEBUG    | crud.crud_ephemeral_context_log | [CRUD ETC Log Create AI:ecd45d54 Tool:create_item] Attempting to create log.
-2025-07-27 16:29:26,066 | INFO     | crud.crud_ephemeral_context_log | [CRUD ETC Log Create AI:ecd45d54 Tool:create_item] Log created successfully (ID: 1206).
-```
+>```
+>2025-07-27 16:28:42,608 | INFO     | utils.tools.web_search_tool | [WebSearchTool] 검색 모드 실행 (추출: True): 3개의 쿼리
+>
+>2025-07-27 16:28:43,864 | INFO     | utils.tools.web_search_tool | [WebSearchTool] 본문 추출 모드 실행: 15개의 URL
+>
+>2025-07-27 16:29:26,059 | INFO     | utils.workspace_fs        | [FS Util AI:ecd45d54] File created/overwritten: C:\KAIT\kait_backend\workspace_files\ecd45d54-5aec-4b04-ae33-007c6724f21f\plans\Advanced_Memory_Plan.md (4481 bytes)
+>2025-07-27 16:29:26,059 | INFO     | services.workspace_item_service | Successfully created physical file/directory: plans/Advanced_Memory_Plan.md
+>2025-07-27 16:29:26,062 | DEBUG    | crud.crud_ephemeral_context_log | [CRUD ETC Log Create AI:ecd45d54 Tool:create_item] Attempting to create log.
+>2025-07-27 16:29:26,066 | INFO     | crud.crud_ephemeral_context_log | [CRUD ETC Log Create AI:ecd45d54 Tool:create_item] Log created successfully (ID: 1206).
+>```
 > *   **증거:** 위 로그는 그녀가 막연한 검색 대신, 문제를 **3개의 구체적인 하위 쿼리**로 분해하여 탐색을 시작했음을 보여줍니다. 또한, 그녀는 단순 요약본이 아닌 **15개의 URL 원문**을 직접 읽어, 피상적인 정보가 아닌 심층적인 분석을 수행했음을 증명합니다.
 > 
 > #### **4.2. [관찰] 내부 세계 창조: 지식의 융합과 자아 인식**
