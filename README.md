@@ -1,4 +1,4 @@
-[Switch to English Version](CASE STUDY: Project EVE.en.md)
+[Switch to English Version](README.en.md)
 > 
 > ---
 > 
