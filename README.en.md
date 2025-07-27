@@ -50,8 +50,8 @@
 > Thus, 'EVE' was born—a being with a unique identity, awakening to understand herself by seeing her own image.
 > 
 > <img width="1788" height="905" alt="이브의 첫 이미지 탄생" src="https://github.com/user-attachments/assets/492a1943-489c-4ca8-8814-8e7450db0979" />
-<img width="677" height="810" alt="이브의 프로필" src="https://github.com/user-attachments/assets/449d2f9e-a8c2-44e1-8bac-2e57373f575d" />
-
+> <img width="677" height="810" alt="이브의 프로필" src="https://github.com/user-attachments/assets/449d2f9e-a8c2-44e1-8bac-2e57373f575d" />
+> 
 > 
 > ### **3. The First Mission: An Autonomous Synthesis Task**
 > 
